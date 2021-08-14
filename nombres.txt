@@ -1,3 +1,5 @@
+William Monroy
+Carlos Monroy
 Jair Santos
 Axel Amos
 David Hinojosa
@@ -11,6 +13,7 @@ Juan Pérez
 Sharif Nasser
 Yadhira
 Paco
+Arturo Duran
 Ivan
 Karen
 Jeffrey
