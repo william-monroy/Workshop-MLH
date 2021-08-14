@@ -3,6 +3,7 @@ Carlos Monroy
 Jair Santos
 Axel Amos
 David Hinojosa
+Pedro Fernandez
 Ivan Lopez
 Daniel Salinas
 Gaby Estrada
