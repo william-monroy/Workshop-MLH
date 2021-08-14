@@ -3,6 +3,7 @@ Carlos Monroy
 Jair Santos
 Axel Amos
 David Hinojosa
+Sofia Alvarez
 Ingrid Partida
 Gaby Estrada
 Andrea San Martin 
@@ -23,4 +24,3 @@ Ivan
 Karen
 Jeffrey
 Jhenny
-
