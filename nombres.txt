@@ -3,6 +3,7 @@ Carlos Monroy
 Jair Santos
 Axel Amos
 David Hinojosa
+Ivan Lopez
 Daniel Salinas
 Gaby Estrada
 Jesus García 
@@ -18,3 +19,4 @@ Ivan
 Karen
 Jeffrey
 Jhenny
+
