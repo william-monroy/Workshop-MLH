@@ -3,6 +3,7 @@ Carlos Monroy
 Jair Santos
 Axel Amos
 David Hinojosa
+Ricardo Caballero
 David García
 Arturo Duran Castillo
 Danielle Garza
