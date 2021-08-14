@@ -4,6 +4,7 @@ Carlos Monroy
 Jair Santos
 Axel Amos
 David Hinojosa
+Rene Tapia
 Rubén Tandon
 Roberto Pérez
 David Hinojosa
@@ -36,3 +37,4 @@ Ivan
 Karen
 Jeffrey
 Jhenny
+
