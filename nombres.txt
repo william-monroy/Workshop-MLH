@@ -3,6 +3,7 @@ Carlos Monroy
 Jair Santos
 Axel Amos
 David Hinojosa
+Eliezer Cavazos
 Sofia Martinez
 Josué Flores
 Ricardo Caballero
@@ -30,4 +31,3 @@ Ivan
 Karen
 Jeffrey
 Jhenny
-
